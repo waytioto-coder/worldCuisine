@@ -5,7 +5,8 @@
       "Bash(npm start)",
       "Bash(nul)",
       "Bash(git add:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(git push:*)"
     ],
     "deny": [],
     "ask": []
