@@ -243,6 +243,10 @@ If you need help:
 
 You now have a fully functional, database-driven website with a content management system!
 
+---
+
+**Deployed to Production:** Your site is now live!
+
 **Public Site:** View your beautiful cuisine website
 **Admin Panel:** Manage all your content without touching code
 

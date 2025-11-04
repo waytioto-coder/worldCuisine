@@ -6,7 +6,8 @@
       "Bash(nul)",
       "Bash(git add:*)",
       "Bash(rm:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(git commit:*)"
     ],
     "deny": [],
     "ask": []
