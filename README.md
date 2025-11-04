@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# World Cuisine React
+
+A beautiful, database-driven world cuisine website with admin panel.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
